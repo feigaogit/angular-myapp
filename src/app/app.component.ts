@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = '我的第一个Angular组件';
+  title = '我的第一个Angular组件!';
 }
