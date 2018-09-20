@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = '我的第一个Angular组件66';
+  title = '欢迎来到英雄联盟';
 }

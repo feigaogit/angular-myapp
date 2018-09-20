@@ -1,0 +1,9 @@
+<h2>{{hero.name | uppercase}} 简介：</h2>
+<div><span>id:</span>{{hero.id}}</div>
+<div><span>name:</span>{{hero.name}}</div>
+修改：
+<div>
+  <label>名称：
+    <input type="text" [(ngModel)]="hero.name" placeholder="">
+  </label>
+</div>
